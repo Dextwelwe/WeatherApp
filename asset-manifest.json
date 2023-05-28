@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Dextwelwe/WeatherApp/static/css/main.949e80fa.css",
-    "main.js": "/Dextwelwe/WeatherApp/static/js/main.5bf2cd25.js",
+    "main.js": "/Dextwelwe/WeatherApp/static/js/main.c1ed3d5b.js",
     "static/js/787.13d76ca7.chunk.js": "/Dextwelwe/WeatherApp/static/js/787.13d76ca7.chunk.js",
     "index.html": "/Dextwelwe/WeatherApp/index.html",
     "main.949e80fa.css.map": "/Dextwelwe/WeatherApp/static/css/main.949e80fa.css.map",
-    "main.5bf2cd25.js.map": "/Dextwelwe/WeatherApp/static/js/main.5bf2cd25.js.map",
+    "main.c1ed3d5b.js.map": "/Dextwelwe/WeatherApp/static/js/main.c1ed3d5b.js.map",
     "787.13d76ca7.chunk.js.map": "/Dextwelwe/WeatherApp/static/js/787.13d76ca7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.949e80fa.css",
-    "static/js/main.5bf2cd25.js"
+    "static/js/main.c1ed3d5b.js"
   ]
 }
