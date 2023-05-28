@@ -5,7 +5,7 @@ import {BrowserRouter, Routes, Route } from "react-router-dom";
     <div>
       <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
-      <Route path={''} element={<Weather />}></Route>
+      <Route path={'/'} element={<Weather />}></Route>
       </Routes>
       </BrowserRouter>
     </div>
