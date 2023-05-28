@@ -7,7 +7,6 @@ function Weather()  {
 
     useEffect(() => {
     getWeatherData(city);
-    console.log('abc')
     },[city]);
 
 function getWeatherData(cityName){
