@@ -1,0 +1,30 @@
+.weatherView {
+    color: darkblue;
+    margin: auto;
+    width: 25%;
+    font-family: Garamond, sans-serif;
+    background-color: yellow;
+    display: block;
+    align-items: center;
+    padding: 0.5%;
+    text-align: center;
+    }
+    
+    .weatherViewRain {
+        color: wheat;
+        margin: auto;
+        width: 25%;
+        font-family: Garamond, sans-serif;
+        background-color: dodgerblue;
+        display: block;
+        align-items: center;
+        padding: 0.5%;
+        text-align: center;
+        }
+
+.button {
+    background-color: darkblue;
+    color : white;
+    padding: 0.7%;
+}        
+    
